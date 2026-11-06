@@ -1,5 +1,3 @@
-# Competition data stays local (course rules)
-*.csv
 features/
 *.npz
 *.npy
